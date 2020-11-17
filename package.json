@@ -1,0 +1,18 @@
+{
+  "name": "kuby-2020.10",
+  "version": "1.0.0",
+  "description": "This is a basic component in kuby platform loading in hbs handlebars (https://www.npmjs.com/package/handlebars)",
+  "main": "BD-ROUTER.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mssql": "^3.3.0",
+    "mustache": "^4.0.1",
+    "underscore": "^1.11.0"
+  }
+}
